@@ -1,0 +1,46 @@
+html {
+  margin: 100;
+  padding: 0
+canvas {
+  display: block;
+}
+
+body{
+  color: #ffffff;
+  font-size: meduim;
+  text-align: center;
+  
+  background-color: #000000;
+}
+h1 {
+  color: #27c5f5 ;
+  font-size: xx-large;
+  font-style: Bold;
+  padding-bottom: 10px;
+  text-align: center; 
+
+ 
+}
+h2 {
+  color: #2743e3;
+  text-align: center;
+  
+}
+p {
+  color: #ffffff;
+  text-align: center;
+}
+  
+
+p2{
+ color: #ffffff; 
+  width: 0%;
+  padding-left: 10px;
+  padding-top: 30px;
+  padding-bottom: 80px;
+}
+
+
+
+
+
